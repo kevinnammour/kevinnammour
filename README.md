@@ -33,6 +33,6 @@ I am Kevin Nammour, currently pursuing my bachelor's degree majoring in computer
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinnammour&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinnammour&count_private=true&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kevinnammour.kevinnammour)
