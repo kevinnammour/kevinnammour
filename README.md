@@ -27,6 +27,8 @@ I am Kevin Nammour, currently pursuing my bachelor's degree majoring in computer
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+<br>
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kevinnammour&count_private=true&show_icons=true&include_all_commits=true)
 
 <br>
