@@ -13,7 +13,7 @@ I am Kevin Nammour, currently pursuing my bachelor's degree majoring in computer
 ![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-angular-bd002e?style=flat-square&logo=angular)
 ![Ionic](https://img.shields.io/badge/-ionic-white?style=flat-square&logo=ionic)
-![Java](https://img.shields.io/badge/-java-white?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C](https://img.shields.io/badge/-C-white?style=flat-square&logo=c)
 ![php](https://img.shields.io/badge/-php-white?style=flat-square&logo=php)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
