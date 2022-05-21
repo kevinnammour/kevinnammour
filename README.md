@@ -9,7 +9,6 @@ I am Kevin Nammour, currently pursuing my bachelor's degree majoring in computer
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-angular-bd002e?style=flat-square&logo=angular)
 ![Ionic](https://img.shields.io/badge/-ionic-white?style=flat-square&logo=ionic)
