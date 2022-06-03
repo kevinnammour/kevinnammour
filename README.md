@@ -1,5 +1,4 @@
-## Ahoy there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="15px">
-
+## Ahoy there!
 I am Kevin Nammour, currently pursuing my bachelor's degree majoring in computer science from [The Lebanese American University](https://www.lau.edu.lb/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-kevinnammour-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinnammour/)](https://www.linkedin.com/in/kevinnammour/)
